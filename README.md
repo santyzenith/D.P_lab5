@@ -1,5 +1,11 @@
 # Lab 5: Containerizing with Docker
 
+
+
+https://github.com/user-attachments/assets/f3463297-b21d-47d8-acda-690d4e1a0351
+
+
+
 In this lab, you'll learn how to containerize a Flask application, train and deploy a machine learning model using Docker and Docker Compose. By the end of the lab, you'll have a Flask API running in a Docker container that can serve predictions using a machine learning model trained on the Iris dataset.
 
 Clone the code from [this](https://github.com/purvag03/mlip-docker-lab-f24/) repository.
